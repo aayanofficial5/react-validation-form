@@ -34,7 +34,7 @@ The form includes required fields with real-time error display, a disabled submi
 ```bash
 # Clone the repository
 git clone https://github.com/aayanofficial5/react-validation-form.git
-cd react-form-assignment1
+cd react-validation-form
 
 # Install dependencies
 npm install
